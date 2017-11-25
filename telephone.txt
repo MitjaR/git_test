@@ -1,1 +1,3 @@
 Search telephone number.
+
+We can search for telephone number. Example type 070 123 070 into the search box and press enter.
