@@ -1,1 +1,1 @@
-Testni repotitorij za git delavnico.
+Testni repozitorij za git delavnico.
